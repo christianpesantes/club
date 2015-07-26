@@ -1,0 +1,42 @@
+1	F	0	5
+2	F	2	30
+3	M	2	25
+4	M	2	20
+5	M	2	20
+6	M	3	10
+7	F	10	5
+
+t=0 
+	patron #1 [F] arrives 
+	patron #1 [F] enters 
+t=2 
+	patron #2 [F] arrives 
+	patron #2 [F] enters 
+t=4 
+	patron #3 [M] arrives 
+	patron #3 [M] enters 
+t=5 
+	patron #1 [F] leaves 
+t=7 
+	patron #4 [M] arrives 
+	patron #4 [M] enters 
+t=9 
+	patron #5 [M] arrives 
+	patron #5 [M] enters 
+t=12 
+	patron #6 [M] arrives 
+t=22 
+	patron #7 [F] arrives 
+	patron #7 [F] enters 
+	patron #6 [M] enters 
+t=27 
+	patron #7 [F] leaves 
+	patron #4 [M] leaves 
+t=29 
+	patron #3 [M] leaves 
+	patron #5 [M] leaves 
+t=32 
+	patron #6 [M] leaves 
+	patron #2 [F] leaves
+	
+	
