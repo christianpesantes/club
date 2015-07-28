@@ -15,5 +15,5 @@ Output:
 The status of each patron will be printed to the screen
 
 Instructions:
-Compile: gcc posix6.c -lrt -o posix6 
+Compile: gcc posix6.c -lrt -pthread -o posix6 
 Run: ./posix6 input3.txt
